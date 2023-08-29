@@ -1,4 +1,4 @@
-## Hi, I'm Miriam (Ashley) Kim! :wave:
+## Hi, I'm Ashley Kim! :wave:
 
 <img align="left" src="https://github.com/ashleyjek/ashleyjek/assets/132113558/05c9e70a-8e45-4fd5-9c29-dc6b7826c99c" width="320"/>
 
