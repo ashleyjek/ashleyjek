@@ -1,6 +1,6 @@
 ## Hi, I'm Ashley! :wave:
 
-<img align="left" src="https://github.com/ashleyjek/ashleyjek/assets/132113558/05c9e70a-8e45-4fd5-9c29-dc6b7826c99c" width="300"/>
+<img align="left" src="https://github.com/ashleyjek/ashleyjek/assets/132113558/05c9e70a-8e45-4fd5-9c29-dc6b7826c99c" width="320"/>
 
 
 <div width="50%">
@@ -25,7 +25,8 @@
 </div>
 
 
-### 🛠 Languages and Tools:
+
+### Languages and Tools:
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -47,14 +48,14 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
 </div>
 
-### 💖 Interests:
+### Interests:
 <img src="https://github.com/ashleyjek/ashleyjek/assets/132113558/73063cd5-ccec-401d-abb8-dc1e7e212da8" width="150"/>
 <img src="https://github.com/ashleyjek/ashleyjek/assets/132113558/7cb0f8df-7412-42fd-84b5-74dcafae673f" width="150"/>
 <img src="https://github.com/ashleyjek/ashleyjek/assets/132113558/d75b77c4-4752-4c1c-99fa-739f2599f4e1" width="150"/>
 
 <!-- <img src="https://github.com/ashleyjek/ashleyjek/assets/132113558/957370ee-4998-4b28-973d-96cbbb2a68fc" width="250"/> -->
 
-### 🔥 GitHub Stats:
+### GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ashleyjek&theme=omni)](https://git.io/streak-stats)
 
