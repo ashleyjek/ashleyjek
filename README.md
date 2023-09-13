@@ -7,7 +7,7 @@
   
 ### About Me:
 
- 👩🏻‍💻 Full Stack Developer
+ 👩🏻‍💻 Software Engineer
 
  🔭 I’m currently working on <a href="https://coffeebook.onrender.com/">Coffeebook</a>
 
