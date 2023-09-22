@@ -7,16 +7,13 @@
   
 ### About Me:
 
- 👩🏻‍💻 Software Engineer
-
- 🔭 I’m currently working on <a href="https://coffeebook.onrender.com/">Coffeebook</a>
-
- 💬 Ask me about <a href="https://journease.onrender.com/">Journease</a>
-
- 🤝 Connect with me:
+ 👩🏻‍💻 Software Engineer </br>
+ 🔭 I’m currently working on <a href="https://coffeebook.onrender.com/">Coffeebook</a></br>
+ 💬 Ask me about <a href="https://journease.onrender.com/">Journease</a></br>
+ 🤝 Connect with me:</br>
   
   <a href="https://www.linkedin.com/in/ashleyjek/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"/>
   </a>
     
 
