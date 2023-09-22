@@ -1,6 +1,6 @@
 ## Hi, I'm Ashley Kim! :wave:
 
-<img align="left" src="https://github.com/ashleyjek/ashleyjek/assets/132113558/05c9e70a-8e45-4fd5-9c29-dc6b7826c99c" width="320"/>
+<img align="left" src="https://github.com/ashleyjek/ashleyjek/assets/132113558/05c9e70a-8e45-4fd5-9c29-dc6b7826c99c" height="300"/>
 
 
 <div width="50%">
@@ -10,8 +10,6 @@
  👩🏻‍💻 Software Engineer
 
  🔭 I’m currently working on <a href="https://coffeebook.onrender.com/">Coffeebook</a>
-
- 🌱 I’m currently learning **React and JavaScript** 
 
  💬 Ask me about <a href="https://journease.onrender.com/">Journease</a>
 
@@ -48,12 +46,12 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
 </div>
 
-### Interests:
+<!-- ### Interests:
 <img src="https://github.com/ashleyjek/ashleyjek/assets/132113558/73063cd5-ccec-401d-abb8-dc1e7e212da8" width="150"/>
 <img src="https://github.com/ashleyjek/ashleyjek/assets/132113558/7cb0f8df-7412-42fd-84b5-74dcafae673f" width="150"/>
 <img src="https://github.com/ashleyjek/ashleyjek/assets/132113558/d75b77c4-4752-4c1c-99fa-739f2599f4e1" width="150"/>
 
-<!-- <img src="https://github.com/ashleyjek/ashleyjek/assets/132113558/957370ee-4998-4b28-973d-96cbbb2a68fc" width="250"/> -->
+ <img src="https://github.com/ashleyjek/ashleyjek/assets/132113558/957370ee-4998-4b28-973d-96cbbb2a68fc" width="250"/> 
 
 ### GitHub Stats:
 
@@ -61,7 +59,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleyjek&layout=compact&theme=vision-friendly-dark)](https://github.com/ashleyjek/github-readme-stats)
 
-
+-->
 <!--
 **ashleyjek/ashleyjek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
