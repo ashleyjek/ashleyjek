@@ -10,11 +10,7 @@
  👩🏻‍💻 Software Engineer </br>
  🔭 I’m currently working on <a href="https://coffeebook.onrender.com/">Coffeebook</a></br>
  💬 Ask me about <a href="https://journease.onrender.com/">Journease</a></br>
- 🤝 Connect with me:</br>
-  
-  <a href="https://www.linkedin.com/in/ashleyjek/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"/>
-  </a>
+
     
 
 </div>
@@ -50,6 +46,12 @@
 
  <img src="https://github.com/ashleyjek/ashleyjek/assets/132113558/957370ee-4998-4b28-973d-96cbbb2a68fc" width="250"/> 
 
+ 🤝 Connect with me:</br>
+  
+  <a href="https://www.linkedin.com/in/ashleyjek/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"/>
+  </a>
+  
 ### GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ashleyjek&theme=omni&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
