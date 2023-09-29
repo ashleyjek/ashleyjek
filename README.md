@@ -10,8 +10,8 @@
  👩🏻‍💻 Software Engineer </br>
  🔭 I’m currently working on <a href="https://coffeebook.onrender.com/">Coffeebook</a></br>
  💬 Ask me about <a href="https://journease.onrender.com/">Journease</a></br>
+ ✨ Other Interests include: Golf, Ceramics, Cooking, Baking, Hiking, Music, Photography!
 
-    
 
 </div>
 
